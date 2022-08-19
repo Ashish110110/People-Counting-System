@@ -1,4 +1,4 @@
-As my final year project, I designed a people counting system to count the number of people entering or leaving monitored zone using two approaches :
+As my final year project, I designed a smart IOT based people counting system to count the number of people entering or leaving monitored zone using two approaches :
 
 1. Using RaspberryPi and USB Webcam
 2. Using IR Sensors and Arduino UNO
